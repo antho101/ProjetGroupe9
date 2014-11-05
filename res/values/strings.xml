@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="app_name">ProjetGroupe9</string>
+	
+    <string name="app_name">BlocNote</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string name="test">test</string>
+    <!-- ================== login - register ================== -->
+    <string name="label_login">login</string>
+    <string name="label_password">password</string>
+    <string name="button_connexion">sign in</string>
+    <string name="label_lostpassword">• Lost password ?</string>
+    <string name="label_register">• Create a new account</string>
+    <string name="label_retype">re-type</string>
+    <string name="label_mail">mail</string>
+    <string name="label_cgu">I agree with the CGU</string>
+    <string name="button_register">Register</string>
+    <string name="label_registerTitle">Create a new account</string>
+    
+    
 
 </resources>
